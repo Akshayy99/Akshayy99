@@ -22,7 +22,7 @@ Hi there, I'm **Akshay Kharbanda**, a **Computer Science Engineering student** �
 - 👨🏽‍💻 I’m currently an App Development intern with [Mondelez International](https://in.mondelezinternational.com/home) working on building apps for their business functions;
 - 🤔 My interests are with Software Development, Competitive Programming, Machine Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;
-- 💬 Ask me about anything, I am happy to help;- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1n7Jh1WKW5ZO3L60Lp8A1YaCgpcy4NhiP/view?usp=sharing) to get more info.
+- 💬 Ask me about anything, I am happy to help;- 📝 See my [Resume](https://drive.google.com/file/d/1n7Jh1WKW5ZO3L60Lp8A1YaCgpcy4NhiP/view?usp=sharing) to get more info.
 
 - 📫 Please email via akshayworks19@gmail.com to reach me.
 
