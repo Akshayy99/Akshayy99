@@ -19,7 +19,7 @@ Hi there, I'm **Akshay Kharbanda**, a **Computer Science Engineering graduate** 
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently a Software Engineer at [Reliance Jio](https://in.mondelezinternational.com/home) working on building a Hybrid Cloud Management platfrom;
+- 👨🏽‍💻 I’m currently a Software Engineer at [Reliance Jio](https://www.jio.com/) working on building a Hybrid Cloud Management platfrom;
 - 🤔 My interests are with Software Development, Data Analytics, Machine Learning, etc..;
 - 💼 I wish to pursue a Master's degree in Business Analytics;
 - 💬 Ask me about anything, I am happy to help;- 📝 See my [Resume](https://drive.google.com/file/d/1wD4DOVN_S4796UQV6aRl3VZVbeZ0NGb7/view?usp=sharing) to get more info.
