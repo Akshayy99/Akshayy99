@@ -13,18 +13,18 @@
 <br />
 <br />
 
-Hi there, I'm **Akshay Kharbanda**, a **Computer Science Engineering graduate** 🚀 from IIIT Hyderabad, India. Currently, I'm a Software Engineer 👨🏽‍💼. 
+Hi there, I'm **Akshay Kharbanda**, a current **MSC in Management, Business Analytics student** at Ivey Business School, London ON, Canada. I did my undergrad in **Computer Science Engineering** 🚀 from IIIT Hyderabad, India, after which I worked as a Software Development Manager at Reliance Jio, India 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently a Software Engineer at [Reliance Jio](https://www.jio.com/) working on building a Hybrid Cloud Management platfrom;
-- 🤔 My interests are with Software Development, Data Analytics, Machine Learning, etc..;
-- 💼 I wish to pursue a Master's degree in Business Analytics;
-- 💬 Ask me about anything, I am happy to help;- 📝 See my [Resume](https://drive.google.com/file/d/1wD4DOVN_S4796UQV6aRl3VZVbeZ0NGb7/view?usp=sharing) to get more info.
+- 👨🏽‍💻 I worked as a Software Engineer at [Reliance Jio](https://www.jio.com/), where I worked on building a Hybrid Cloud Management platfrom;
+- 🤔 My interests are with Business Analytics, Software Development, FinTech, etc..;
+- 💼 I am the President of the **Ivey Finance and Technology Club**, enabling students to get familiar with the dynamic world at the intersection of finance and technology.
+- 💬 Ask me about anything, I am happy to help;- 📝 See my [Linkedin](https://www.linkedin.com/in/akshay-kharbanda/) to get more info.
 
-- 📫 Please email via akshaykharbanda.ak99@gmail.com to reach me.
+- 📫 Please email via [akharbanda.msc2023@ivey.ca] (mailto:akharbanda.msc2023@ivey.ca) to reach me.
 
 
 **Languages and Tools:**  
